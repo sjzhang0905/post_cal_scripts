@@ -1,4 +1,4 @@
-# Scripts
+# post_cal_scripts
 
 A collection of scripts for computational chemistry post-processing, data analysis, fitting, and scientific visualization.
 
